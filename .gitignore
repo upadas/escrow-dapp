@@ -4,3 +4,7 @@ cache
 node_modules
 artifacts
 *.bck
+.env
+
+# Local Netlify folder
+.netlify
