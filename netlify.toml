@@ -5,7 +5,7 @@
   publish = "."
 [[redirects]]
   from = "/*"
-  to = "/app/public/index.html"
+  to = "/app/src/index.js"
   status = 200
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
